@@ -1,8 +1,8 @@
 # LuMiao_Portfolio
 
-* This is Lu Miao's architecture portfolio from 2014-2018.
+* This is Lu Miao's architecture portfolio from 2014-2020.
 
-  这是卢淼的建筑设计作品集（2014-2018年）。
+  这是卢淼的建筑设计作品集（2014-2020年）。
 
 ## Instruction 下载说明
 * Please click ***Clone or download*** (right-top corner, green button) to download the ZIP for the portfolio from PC browser.
